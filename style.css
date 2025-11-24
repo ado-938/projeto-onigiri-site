@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Oregano:ital@0;1&family=Splash&display=swap');
+
+body {
+    font-family: "Oregano", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #ffb9ff;
+    color: #ff2be3;
+    margin: 0;
+    line-height: 1.6;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #5a5252;
+    margin-top: 0.5rem;
+}
+
+main {
+    padding: 0 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.breadcrumb {
+    padding: 1rem 0;
+    color: #9e9e9e;
+    font-size: 0.9rem;
+}
+
+.breadcrumb a {
+    color: #bb86fc;
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+/* Tela Inicial - Cards dos Sistemas */
+.systems-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.system-card {
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.system-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(187, 134, 252, 0.3);
+}
+
+.system-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    background-color: #333;
+    /* Cor de fundo caso a imagem não carregue */
+}
+
+.system-card-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.system-card-content h3 {
+    margin: 0 0 0.5rem 0;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.system-card-content p {
+    margin: 0 0 1.5rem 0;
+    color: #b3b3b3;
+    flex-grow: 1;
+}
+
+.system-card-content button {
+    background-color: #bb86fc;
+    color: #121212;
+    border: none;
+    padding: 0.8rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.2s;
+    align-self: flex-start;
+}
+
+.system-card-content button:hover {
+    background-color: #a062f8;
+}
+
+/* Tela de Versões */
+.versions-container h2,
+.details-container h2 {
+    border-bottom: 2px solid #bb86fc;
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.version-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.version-buttons button {
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+    border: 1px solid #444;
+    padding: 1rem 1.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.version-buttons button:hover {
+    background-color: #3a3a3a;
+    border-color: #bb86fc;
+}
+
+/* Tela de Detalhes e PDFs */
+.pdf-list {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.pdf-link {
+    background-color: #1e1e1e;
+    padding: 1rem;
+    border-radius: 5px;
+    border: 1px solid #333;
+    color: #e0e0e0;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: border-color 0.2s, background-color 0.2s;
+}
+
+.pdf-link:hover {
+    border-color: #bb86fc;
+    background-color: #2a2a2a;
+}
+
+.footer {
+    color: #9640ff;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+    color: #bb86fc;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem 1rem;
+    margin-top: 3rem;
+    border-top: 1px solid #333;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    main {
+        padding: 0 1rem;
+    }
+}

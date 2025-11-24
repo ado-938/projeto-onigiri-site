@@ -1,0 +1,98 @@
+[
+    {
+        "nome": "Feiticeiros & Maldições v2.5.2",
+        "type": "sistema",
+        "status": "feito",
+        "descricao": "Um sistema que adapta o mundo de Jujutsu Kaisen para RPG de mesa. Esta é a versão mais recente do sistema, com melhorias e ajustes em relação às versões anteriores na questão do balanceamento de classes, aptidões e habilidades.",
+        "ano": 2025,
+        "link_pdf": "https://drive.google.com/file/d/1J4IoDFZcQtEVj-6tMgaVAR0EGsZhHvct/view?usp=sharing"
+    },
+    {
+        "nome": "Feiticeiros & Maldições v2.0",
+        "type": "sistema",
+        "status": "feito",
+        "descricao": "Um sistema que adapta o mundo de Jujutsu Kaisen para RPG de mesa. Compatível com a versão 2.5.2, mas com algumas diferenças em relação a esta. Esta versão trouxe diversas melhorias e ajustes em relação à versão 1.1b, especialmente no que diz respeito ao balanceamento e criação de novas mecânicas.",
+        "ano": 2024,
+        "link_pdf": "https://drive.google.com/file/d/1N-6DqmiB_f_wmP2tb8cdSjbkcBN6o1LM/view?usp=sharing"
+    },
+    {
+        "nome": "Feiticeiros & Maldições v1.1b",
+        "type": "sistema",
+        "status": "feito",
+        "descricao": "Um sistema que adapta o mundo de Jujutsu Kaisen para RPG de mesa. A versão mais antiga do sistema, que serviu como base para as versões 2.0 e 2.5.2. Apesar de ser uma versão anterior, ainda é jogável e contém muitas das mecânicas básicas do sistema.",
+        "ano": 2024,
+        "link_pdf": "https://drive.google.com/file/d/1MkLVrfUuO2XicXSyYkL9OlmPX1skxr0g/view?usp=sharing"
+    },
+    {
+        "nome": "Enciclopédia Amaldiçoada v0.8 (F&M)",
+        "type": "suplemento",
+        "status": "feito",
+        "descricao": "Um suplemento para o sistema Feiticeiros & Maldições, trazendo informações sobre como criar suas técnicas amaldiçoadas, desde feitiços passivos até técnicas de domínio e liberações máximas.",
+        "ano": 2024,
+        "link_pdf": "https://drive.google.com/file/d/15D0SJWb-f5mqZmuhhCl_aj5cb0uR7pf9/view?usp=sharing"
+    },
+    {
+        "nome": "Grimório das Maldições v0.5 (F&M)",
+        "type": "suplemento",
+        "status": "feito",
+        "descricao": "Um suplemento para o sistema Feiticeiros & Maldições, trazendo informações adicionais sobre o mundo de Jujutsu Kaisen, incluindo personagens, técnicas e maldições para seus jogadores enfrentarem nas campanhas.",
+        "ano": 2024,
+        "link_pdf": "https://drive.google.com/file/d/1hQx6OTV32HYNLQfeL3P3iZT9l4KytX_8/view?usp=sharing"
+    },
+    {
+        "nome": "Shinigamis & Hollows v0.2",
+        "type": "sistema",
+        "status": "em-desenvolvimento",
+        "descricao": "Um sistema de Bleach que atualmente está na versão 0.2, estando ainda em desenvolvimento pela equipe.",
+        "ano": 2025,
+        "link_pdf": "https://drive.google.com/file/d/1N17qJbj5d-APwegOv_wr8XeRRFN6Ch_A/view?usp=drive_link"
+    },
+    {
+        "nome": "Guia do Narrador v0.3 (F&M)",
+        "type": "suplemento",
+        "status": "feito",
+        "descricao": "Um suplemento para o sistema Feiticeiros & Maldições, focado em auxiliar os narradores com regras e dicas para a criação e condução de campanhas.",
+        "ano": 2025,
+        "link_pdf": "https://drive.google.com/file/d/18Qx2BBC3rZkBMwYzoHoM_tmuITXEjKKl/view?usp=sharing"
+    },
+    {
+        "nome": "Enciclopédia Amaldiçoada v0.9 (F&M)",
+        "type": "suplemento",
+        "status": "feito",
+        "descricao": "Um suplemento para o sistema Feiticeiros & Maldições, trazendo informações sobre como criar suas técnicas amaldiçoadas, desde feitiços passivos até técnicas de domínio e liberações máximas.",
+        "ano": 2025,
+        "link_pdf": "https://drive.google.com/file/d/1oLxz8dGbGNQGbSCzi0FXzxTXtTCOlY3c/view?usp=sharing"
+    },
+    {
+        "nome": "Grimório das Maldições v0.6 (F&M)",
+        "type": "suplemento",
+        "status": "feito",
+        "descricao": "Um suplemento para o sistema Feiticeiros & Maldições, trazendo informações adicionais sobre o mundo de Jujutsu Kaisen, incluindo personagens, técnicas e maldições para seus jogadores enfrentarem nas campanhas.",
+        "ano": 2025,
+        "link_pdf": "https://drive.google.com/file/d/1-KkZYReodno1p4D9q3ZC1NExWZH9feGg/view?usp=sharing"
+    },
+    {
+        "nome": "Guia do Narrador v0.4 (F&M)",
+        "type": "suplemento",
+        "status": "feito",
+        "descricao": "Um suplemento para o sistema Feiticeiros & Maldições, focado em auxiliar os narradores com regras e dicas para a criação e condução de campanhas.",
+        "ano": 2025,
+        "link_pdf": "https://drive.google.com/file/d/1YrfP-HaorsQtS_wsb3wot2V44g2wcd7O/view?usp=sharing"
+    },
+    {
+        "nome": "Noites em Tokyo Playtest v0.1",
+        "type": "sistema",
+        "status": "em-desenvolvimento",
+        "descricao": "Um sistema de RPG em fase de playtest com uma temática focada em Tokyo Ghoul, com mecânicas diferentes dos sistemas anteriores desenvolvidos pela equipe, sendo mais narrativo.",
+        "ano": 2025,
+        "link_pdf": "https://drive.google.com/file/d/1tpuK8Gk_2powHBIhxVfvjR0Olq17l3im/view?usp=sharing"
+    },
+    {
+        "nome": "Regras Opcionais para F&M",
+        "type": "suplemento",
+        "status": "feito",
+        "descricao": "Um suplemento para o sistema Feiticeiros & Maldições que introduz regras opcionais para aprimorar a experiência de jogo, como as origens de civil e não feiticeiro, feitas pelo Parker.",
+        "ano": 2025,
+        "link_pdf": "https://docs.google.com/document/d/1pxVp4qXOisD-B0j7Sf101aSlQe34yAMcZuzd8Ga_GS0/edit?usp=sharing"
+    }
+]
